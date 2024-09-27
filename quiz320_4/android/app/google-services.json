@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195792347168",
+    "project_id": "quiz320-4",
+    "storage_bucket": "quiz320-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195792347168:android:bded57c2cd77994db19c45",
+        "android_client_info": {
+          "package_name": "com.example.quiz320_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapbc8mtr2dN6ieFTT-6FvIekUEn-TnZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
